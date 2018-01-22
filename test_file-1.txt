@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 kkkqqqqnmnmnm
 ssfdhhhhh555
+=======
+qqqqnmnmnm
+ssfd
+>>>>>>> parent of 4f06e58... yy
